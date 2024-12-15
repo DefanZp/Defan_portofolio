@@ -1,0 +1,105 @@
+{
+  "skills": [
+  {
+    "id": "1",
+    "src": "https://img.icons8.com/?size=100&id=123603&format=png&color=000000",
+    "title": "React Js",
+    "description": "Digunakan untuk membuat tampilan website yang interaktif dan modern."
+  },
+  {
+    "id": "2",
+    "src": "https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000",
+    "title": "Figma",
+    "description": "Alat untuk mendesain tampilan website atau aplikasi secara visual."
+  },
+  {
+    "id": "3",
+    "src": "https://img.icons8.com/?size=100&id=20909&format=png&color=000000",
+    "title": "HTML",
+    "description": "Bahasa dasar untuk membuat struktur atau kerangka halaman website."
+  },
+  {
+    "id": "4",
+    "src": "https://img.icons8.com/?size=100&id=21278&format=png&color=000000",
+    "title": "CSS",
+    "description": "Digunakan untuk mengatur tampilan website, seperti warna, ukuran, dan tata letak."
+  },
+  {
+    "id": "5",
+    "src": "https://img.icons8.com/?size=100&id=108784&format=png&color=000000",
+    "title": "JavaScript",
+    "description": "Bahasa pemrograman yang membuat website bisa berinteraksi dengan pengguna."
+  },
+  {
+    "id": "6",
+    "src": "https://img.icons8.com/?size=100&id=ktrJ12qa5f65&format=png&color=000000",
+    "title": "Webflow",
+    "description": "Platform untuk membuat website tanpa perlu menulis kode secara langsung."
+  }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/ClickFilm.png",
+      "title": "ClickFilm",
+      "description": "Website Film Modern yang Dibangun dengan ReactJS untuk Pengalaman Menonton yang Lebih Interaktif.",
+      "link": "View In Github",
+      "Project":"https://github.com/DefanZp/moviesWebsite",
+      "Result":"https://clickfilm.vercel.app/"
+    },
+    {
+      "id": "2",
+      "src": "./img/Nexa.png",
+      "title": "Nexa",
+      "description": "Dengan pendekatan kreatif yang kuat, kami menciptakan pengalaman digital yang tak terlupakan untuk membantu bisnis Anda berkembang.",
+      "link": "View In Webflow",
+      "Project":"https://defans-wondrous-site.webflow.io/",
+      "Result":"https://defans-wondrous-site.webflow.io/"
+    },
+    {
+      "id": "3",
+      "src": "./img/Funiture.png",
+      "title": "Funiture",
+      "description": "Temukan furnitur yang menggabungkan desain elegan dengan fungsi untuk menyempurnakan ruang Anda.",
+      "link": "View In Webflow",
+      "Project":"https://funituree.webflow.io/",
+      "Result":"https://funituree.webflow.io/"
+    },
+    {
+      "id": "4",
+      "src": "/img/placeholder-image-2.png",
+      "title": "PropFindr",
+      "description": "Proyek desain ini berfokus pada menciptakan antarmuka pengguna (UI) yang modern dan responsif untuk aplikasi real estate",
+      "link": "View In Figma",
+      "Project":"https://www.figma.com/design/j6mSmB130hxyCb4GTK4eZn/FINAL-PROJECT-_-KELOMPOK-5?node-id=0-1&node-type=canvas&t=gSzKyXdvwa9uGuHg-0",
+      "Result":"https://www.figma.com/design/j6mSmB130hxyCb4GTK4eZn/FINAL-PROJECT-_-KELOMPOK-5?node-id=0-1&node-type=canvas&t=gSzKyXdvwa9uGuHg-0"
+    }
+    
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
