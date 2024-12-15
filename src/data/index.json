@@ -35,6 +35,12 @@
     "src": "https://img.icons8.com/?size=100&id=ktrJ12qa5f65&format=png&color=000000",
     "title": "Webflow",
     "description": "Platform untuk membuat website tanpa perlu menulis kode secara langsung."
+  },
+  {
+    "id": "7",
+    "src": "https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000",
+    "title": "Tailwind",
+    "description": "Tailwind CSS adalah framework untuk desain website dengan kelas utilitas siap pakai."
   }
   ],
   "portfolio": [
@@ -42,7 +48,7 @@
       "id": "1",
       "src": "./img/ClickFilm.png",
       "title": "ClickFilm",
-      "description": "Website Film Modern yang Dibangun dengan ReactJS untuk Pengalaman Menonton yang Lebih Interaktif.",
+      "description": "Website Film Modern yang Dibangun dengan ReactJS dan Tailwind CSS untuk Pengalaman Menonton yang Lebih Interaktif. Klik Gambar Untuk Melihat Proyek",
       "link": "View In Github",
       "Project":"https://github.com/DefanZp/moviesWebsite",
       "Result":"https://clickfilm.vercel.app/"
